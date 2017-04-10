@@ -14,21 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vacía Tu Bandeja 
+subtitle: Un podcast sobre organización personal, creación de hábitos y simplificar. 
 email: vaciatubandejal@gmail.com
 description: 
   Un podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
-  Comenta los episodios y comparte tus experiencias en el grupo de Vacía Tu Bandeja en Telegram.
+  Comenta los episodios y comparte tus experiencias en el grupo Telegram. 
 
  
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lormez16
-
+timezone: ES
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  
 exclude:
   - Gemfile
   - Gemfile.lock

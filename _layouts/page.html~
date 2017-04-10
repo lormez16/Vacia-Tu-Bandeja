@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <a href="http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58d58be3edf79d0b43a62c80.mp3">Descarga</a>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

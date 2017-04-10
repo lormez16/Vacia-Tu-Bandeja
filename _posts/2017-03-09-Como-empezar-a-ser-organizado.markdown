@@ -4,6 +4,7 @@ title:  "#02-Cómo empezar a ser organizado"
 date:   2017-03-09 
 categories: Organización
 tags: [Organización]
+podcast_link: http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58c07657edf79d0b43a5aafe.mp3
 ---
 
 ### Los 4 pasos para comenzar a tomar el control

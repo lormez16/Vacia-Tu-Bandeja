@@ -4,10 +4,12 @@ title:  "#03-El funcionamiento del hábito"
 date:   2017-03-25 
 categories: Hábitos
 tags: Hábitos
+podcast_link: http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58a75a6c1976542236b81801.mp3
 ---
 
 
-Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar alguno que tengas y a pesar de estar muy motivado al final no lo consigues. 
+Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar alguno que tengas y a pesar de estar muy motivado al final no lo consigues.
+<!--break-->
 
 A mi me ha pasado bastantes veces a lo largo de los años y no entendía porqué. Esto me llevó a investigar y profundizar sobre este tema. 
 
